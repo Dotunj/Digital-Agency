@@ -18,19 +18,12 @@ section#page-content, section#page-content > #services{
 }
 section#page-content{
 	padding-bottom: 3em;
+	padding-top: 3em;
 }
 footer#page-footer{
 	padding-top: 0.5em;
 	padding-bottom: 0.5em;
 	border-top: 1px solid #cecece;
-}
-section#page-content, section#page-content > #clientele{
-
-	padding-top: 3em;
-}
-section#page-content, section#page-content > #contact{
-
-	padding-top: 3em;
 }
 
 #icon{
